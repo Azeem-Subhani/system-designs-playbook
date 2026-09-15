@@ -1,0 +1,4 @@
+interface:
+  display_name: "System Design Lecture Notes"
+  short_description: "Turn raw system-design lecture notes into clear study notes."
+  default_prompt: "Process the relevant lecture_notes_raw_*.md file into final system design study notes."
